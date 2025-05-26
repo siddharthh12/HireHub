@@ -9,7 +9,7 @@ import JobListing from './pages/JobListing'
 import JobPage from './pages/Job'
 import PostJob from './pages/post-jobs'
 import SavedJobs from './pages/saved-job'
-import MyJobs from './pages/My-jobs'
+import MyJobs from './pages/my-jobs'
 import { ThemeProvider } from './components/theme-provider'
 import ProtectedRoute from './components/protected-route'
 
